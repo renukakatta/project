@@ -2,16 +2,16 @@ import java.util.*;
 
 public class matrixmul{
 
-	public static void main(String[] args) {
+	public static void main(String[] arg) {
 		int r1,r2,c1,c2;
 		Scanner s = new Scanner(System.in);
 		System.out.println("enter number of rows in 1st matrix");
 		r1=s.nextInt();
-		System.out.println("enter number of columns in 1st matrix");
+		System.out.println("enter numbr of columns in 1st matrix");
 		c1=s.nextInt();
 		System.out.println("enter number of rows in 2st matrix");
 		r2=s.nextInt();
-		System.out.println("enter number of columns in 2st matrix");
+		System.out.println("enter number of columns in 2st matix");
 		c2=s.nextInt();
 		int [][]a=new int[r1][c1];
 		int [][]b=new int [r2][c2];
