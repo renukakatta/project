@@ -9,7 +9,7 @@ public class matrixmul{
 		r1=s.nextInt();
 		System.out.println("enter numbr of columns in 1st matrix");
 		c1=s.nextInt();
-		System.out.println("enter number of rows in 2st matrix");
+		System.out.println("enter number of rows in 2nd matrix");
 		r2=s.nextInt();
 		System.out.println("enter number of columns in 2st matix");
 		c2=s.nextInt();
