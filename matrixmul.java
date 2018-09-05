@@ -7,7 +7,7 @@ public class matrixmul{
 		Scanner s = new Scanner(System.in);
 		System.out.println("enter number of rows in 1st matrix");
 		r1=s.nextInt();
-		System.out.println("enter numbr of columns in 1st matrix");
+		System.out.println(" numbr of columns in 1st matrix");
 		c1=s.nextInt();
 		System.out.println("enter number of rows in 2nd matrix");
 		r2=s.nextInt();
